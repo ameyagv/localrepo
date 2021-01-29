@@ -1,4 +1,4 @@
 #local repo to git
-nice job
-#on branch1 
-on branch1 2nd line
+nice jobcat 
+#this is branch 1
+branch1 i repeat
